@@ -2,7 +2,7 @@ from requests import get
 import re
 
 
-url = "https://git.io/JZmJ6"
+url = "https://git.io/JnYf3"
 
 
 def get_words():
